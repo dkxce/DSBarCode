@@ -1,0 +1,8 @@
+C:\Downloads\barcodectl_src\bin\Debug\DSBarCode.dll
+C:\Downloads\barcodectl_src\bin\Debug\DSBarCode.pdb
+C:\Downloads\barcodectl_src\obj\Debug\DSBarCode.csproj.AssemblyReference.cache
+C:\Downloads\barcodectl_src\obj\Debug\DSBarCode.BarCodeCtrl.resources
+C:\Downloads\barcodectl_src\obj\Debug\DSBarCode.csproj.GenerateResource.cache
+C:\Downloads\barcodectl_src\obj\Debug\DSBarCode.csproj.CoreCompileInputs.cache
+C:\Downloads\barcodectl_src\obj\Debug\DSBarCode.dll
+C:\Downloads\barcodectl_src\obj\Debug\DSBarCode.pdb
