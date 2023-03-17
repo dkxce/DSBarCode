@@ -1,0 +1,12 @@
+C:\Downloads\x\Test\bin\Debug\Test.exe
+C:\Downloads\x\Test\bin\Debug\Test.pdb
+C:\Downloads\x\Test\bin\Debug\DSBarCode.dll
+C:\Downloads\x\Test\bin\Debug\DSBarCode.pdb
+C:\Downloads\x\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Downloads\x\Test\obj\Debug\Test.Form1.resources
+C:\Downloads\x\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Downloads\x\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Downloads\x\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Downloads\x\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Downloads\x\Test\obj\Debug\Test.exe
+C:\Downloads\x\Test\obj\Debug\Test.pdb
