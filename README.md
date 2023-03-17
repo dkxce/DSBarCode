@@ -1,6 +1,4 @@
-# DSBarCode
-
-BarCode Generator
+### BarCode Code-39 Generator
 
 DSBarCode.BarCodeCtrl ctrl = new DSBarCode.BarCodeCtrl();   
 ctrl.ShowFooter = false;   
@@ -10,3 +8,5 @@ ctrl.Width = 500;
 ctrl.Height = 60;   
 ctrl.BarCode = "13456789";   
 ctrl.SaveImage("c:\\Downloads\\test.bmp");   
+
+![Test](/Test/bin/Debug/Test.png)
